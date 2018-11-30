@@ -1,0 +1,8 @@
+* Background
+
+* Setup
+
+#+BEGIN_SRC sh
+clj -R:rebl -m cognitect.rebl
+
+#+END_SRC
